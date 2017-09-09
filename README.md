@@ -1,4 +1,4 @@
-#CSE 5335 Project 1
+# CSE 5335 Project 1
 
 ## Display web content using Ruby and JavaScript
 
